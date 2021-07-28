@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "784237944304",
+    "project_id": "imagestorage-38478",
+    "storage_bucket": "imagestorage-38478.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784237944304:android:4d7484fb4354899637d135",
+        "android_client_info": {
+          "package_name": "com.example.image_storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784237944304-mngtmn3cqf6p9dn7ltj5bg1du4iqqfj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcnq5B9bwEgg3cfX7U5YTbJ4LWVPeXdLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784237944304-mngtmn3cqf6p9dn7ltj5bg1du4iqqfj6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "784237944304-obh06i4pkp9eaktu3hndf8es85m1j5o4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.imageStorage"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
